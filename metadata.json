@@ -1,0 +1,8 @@
+{
+  "name": "Authentic Hadith",
+  "description": "A modern, minimalist application for searching and reading authentic hadiths from major Sunni collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
